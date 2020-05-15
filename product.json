@@ -1,0 +1,202 @@
+[
+    {
+        "brand": "aqua",
+        "list": [
+            {
+                "name": "AQUA 240ML",
+                "alias": "aqua_240_gelas",
+                "unit": "dus",
+                "size": 240,
+                "size_unit": "milliliter",
+                "product_id": 97,
+                "price": 24000
+            },
+            {
+                "name": "AQUA 330ML",
+                "alias": "aqua_330_mini",
+                "unit": "dus",
+                "size": 330,
+                "size_unit": "milliliter",
+                "product_id": 98,
+                "price": 27000
+            },
+            {
+                "name": "AQUA 600ML",
+                "alias": "aqua_600_tanggung",
+                "unit": "dus",
+                "size": 600,
+                "size_unit": "milliliter",
+                "product_id": 99,
+                "price": 30000
+            },
+            {
+                "name": "AQUA 1100ML",
+                "alias": "aqua_1100",
+                "unit": "dus",
+                "size": 1100,
+                "size_unit": "milliliter",
+                "product_id": 100,
+                "price": 52000
+            },
+            {
+                "name": "AQUA 1500ML",
+                "alias": "aqua_1500",
+                "unit": "dus",
+                "size": 1500,
+                "size_unit": "milliliter",
+                "product_id": 101,
+                "price": 60000
+            },
+            {
+                "name": "AQUA Galon Isi Ulang",
+                "alias": "aqua_galon_isi_ulang",
+                "unit": "galon",
+                "size": 19,
+                "size_unit": "liter",
+                "product_id": 96,
+                "price": 18000
+            },
+            {
+                "name": "AQUA Galon Dengan Botol",
+                "alias": "aqua_galon_dengan_galon",
+                "unit": "galon",
+                "size": 19,
+                "size_unit": "liter",
+                "product_id": 102,
+                "price": 36000
+            }
+        ]
+    },
+    {
+        "brand": "vit", 
+        "list": [
+            {
+                "name": "VIT 240ML",
+                "alias": "vit_240_gelas",
+                "unit": "dus",
+                "size": 240,
+                "size_unit": "milliliter",
+                "product_id": 108,
+                "price": 24000
+            },
+            {
+                "name": "VIT 330ML",
+                "alias": "vit_330_mini",
+                "unit": "dus",
+                "size": 330,
+                "size_unit": "milliliter",
+                "product_id": 109,
+                "price": 27000
+            },
+            {
+                "name": "VIT 600ML",
+                "alias": "vit_600_tanggung",
+                "unit": "dus",
+                "size": 600,
+                "size_unit": "milliliter",
+                "product_id": 110,
+                "price": 30000
+            },
+            {
+                "name": "VIT 1500ML",
+                "alias": "vit_1500",
+                "unit": "dus",
+                "size": 1500,
+                "size_unit": "milliliter",
+                "product_id": 111,
+                "price": 38000
+            },
+            {
+                "name": "VIT Galon Isi Ulang",
+                "alias": "vit_galon_isi_ulang",
+                "unit": "galon",
+                "size": 19,
+                "size_unit": "liter",
+                "product_id": 112,
+                "price": 17000
+            },
+            {
+                "name": "VIT Galon Dengan Botol",
+                "alias": "vit_galon_dengan_galon",
+                "unit": "galon",
+                "size": 19,
+                "size_unit": "liter",
+                "product_id": 113,
+                "price": 39000
+            }
+        ]
+    },
+    {
+        "brand": "mizone",
+        "list": [
+            {
+                "name": "MIZONE ACTIV 500ML",
+                "alias": "mizone_activ_500",
+                "unit": "dus",
+                "size": 500,
+                "size_unit": "milliliter",
+                "product_id": 95,
+                "price": 24000
+            },
+            {
+                "name": "MIZONE BREAK FREE 500ML",
+                "alias": "mizone_break_free_500",
+                "unit": "dus",
+                "size": 500,
+                "size_unit": "milliliter",
+                "product_id": 105,
+                "price": 24000
+            },
+            {
+                "name": "MIZONE MOOD UP 500ML",
+                "alias": "mizone_mood_up_500",
+                "unit": "dus",
+                "size": 500,
+                "size_unit": "milliliter",
+                "product_id": 106,
+                "price": 24000
+            },
+            {
+                "name": "MIZONE MOVE ON 500ML",
+                "alias": "mizone_move_on_500",
+                "unit": "dus",
+                "size": 500,
+                "size_unit": "milliliter",
+                "product_id": 107,
+                "price": 24000
+            }
+        ]
+    },
+    {
+        "brand": "levite",
+        "list": [
+            {
+                "name": "LEVITE LECI CITRUS MINT 350ML",
+                "alias": "levite_leci_citrus_mint_350",
+                "unit": "dus",
+                "size": 350,
+                "size_unit": "milliliter",
+                "product_id": 94,
+                "price": 27000
+            },
+            {
+                "name": "LEVITE LEMON TIMUN MINT 350ML",
+                "alias": "levite_lemon_timun_mint_350",
+                "unit": "dus",
+                "size": 200,
+                "size_unit": "milliliter",
+                "product_id": 103,
+                "price": 27000
+            },
+            {
+                "name": "LEVITE BERRY JERUK NIPIS MINT 350ML",
+                "alias": "levite_berry_jeruk_nipis_mint_350",
+                "unit": "dus",
+                "size": 350,
+                "size_unit": "milliliter",
+                "product_id": 104,
+                "price": 27000
+            }
+        ]
+    }
+]

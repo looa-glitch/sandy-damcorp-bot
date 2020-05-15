@@ -1,0 +1,42 @@
+{
+  "name": "botapp-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.4.0",
+    "@google-cloud/speech": "^3.3.0",
+    "async": "^3.1.0",
+    "axios": "^0.19.0",
+    "botbuilder-adapter-web": "^1.0.4",
+    "botbuilder-storage-mongodb": "^0.9.5",
+    "botkit": "^4.5.0",
+    "botkit-plugin-cms": "^1.0.2",
+    "cldr-data": "^36.0.0",
+    "cloudinary": "^1.15.0",
+    "debug": "^4.1.1",
+    "dotenv": "^7.0.0",
+    "entities": "^2.0.0",
+    "express-http-context": "^1.2.3",
+    "express-session": "^1.17.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.3",
+    "nanoid": "^2.1.6",
+    "node-cron": "^2.0.3",
+    "node-nlp": "^3.10.0",
+    "uniqid": "^5.1.0",
+    "uuid": "^3.3.3",
+    "winston": "^3.2.1",
+    "winston-loggly-bulk": "^3.0.1"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "nlp/model.json"
+    ]
+  }
+}

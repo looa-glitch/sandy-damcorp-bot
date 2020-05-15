@@ -1,0 +1,24 @@
+var constant = {
+    config: {
+        csapi: "https://dev-helpdesk.damcorp.id/api/v1",
+        token: "token",
+        number: "082110700054",
+        whatsappApi: "http://202.158.139.93:7789/",
+        cms_uri: "http://cms.glitch.me/",
+        cms_token: "token-123",
+        port: "6101",
+        elastic: {
+            node: "http://localhost:9200",
+            // auth is optional
+            auth: {
+                username: 'elastic',
+                password: '1qaz2wsx'
+            }
+        }
+        // loggly: {
+        //     token: "",
+        //     domain: ""
+        // }
+    }
+}
+module.exports = constant

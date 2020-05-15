@@ -1,0 +1,28 @@
+[
+    {
+        "intent": "transaction",
+        "finalStep": "final",
+        "startStep": "default_registered",
+        "errorHandleThread": "default_registered",
+        "priority": [
+            {
+                "key": "brand",
+                "vars": "slot_brand",
+                "thread": "ask_brand",
+                "needLtm": false
+            },
+            {
+                "key": "type",
+                "vars": "slot_type",
+                "thread": "ask_type",
+                "needLtm": false
+            },
+            {
+                "key": "number",
+                "vars": "slot_number",
+                "thread": "ask_quantity",
+                "needLtm": false
+            }
+        ]
+    }
+]
