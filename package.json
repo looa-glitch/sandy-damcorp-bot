@@ -23,7 +23,7 @@
     "entities": "^2.0.0",
     "express-http-context": "^1.2.3",
     "express-session": "^1.17.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "mongoose": "^5.7.3",
     "nanoid": "^2.1.6",
