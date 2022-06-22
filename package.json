@@ -10,7 +10,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "^7.4.0",
     "@google-cloud/speech": "^3.3.0",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "axios": "^0.19.0",
     "botbuilder-adapter-web": "^1.0.4",
     "botbuilder-storage-mongodb": "^0.9.5",
